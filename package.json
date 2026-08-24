@@ -1,0 +1,11 @@
+{
+  "name": "lme-funerals",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "qa": "python3 tests/qa.py",
+    "clean": "node scripts/clean.mjs"
+  }
+}
