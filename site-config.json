@@ -1,0 +1,31 @@
+{
+  "name": "LME Funerals",
+  "brand_display": "LME Funerals",
+  "tagline": "Care in every detail",
+  "phones": [
+    "061 240 7076"
+  ],
+  "whatsapp": "061 240 7076",
+  "email": "lmefunerals@gmail.com",
+  "address": null,
+  "services": [
+    [
+      "Funeral Arrangements",
+      "Calm, practical coordination for funeral services and family requirements."
+    ],
+    [
+      "Professional Transport",
+      "Dignified funeral transport supported by well-presented vehicles and hearse options."
+    ],
+    [
+      "Ceremony Set-up",
+      "Thoughtful preparation of service spaces, seating and presentation for the farewell."
+    ],
+    [
+      "Casket Presentation",
+      "Respectful casket presentation with floral and ceremonial detail."
+    ]
+  ],
+  "plans": [],
+  "plan_notes": []
+}

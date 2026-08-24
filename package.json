@@ -1,0 +1,10 @@
+{
+  "name": "lme-funerals-review-site",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "python -X utf8 tests/qa.py",
+    "serve": "node scripts/serve.mjs 4173"
+  }
+}

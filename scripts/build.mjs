@@ -1,0 +1,1 @@
+import fs from "node:fs";import path from "node:path";const root=process.cwd(),src=path.join(root,"src","site"),out=path.join(root,"docs");fs.rmSync(out,{recursive:true,force:true});fs.cpSync(src,out,{recursive:true});fs.writeFileSync(path.join(out,".nojekyll"),"");console.log(`Built static site into ${out}`);
