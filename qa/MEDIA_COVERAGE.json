@@ -1,0 +1,101 @@
+{
+  "source_images_total": 41,
+  "duplicates_total": 0,
+  "near_duplicates_total": 0,
+  "sensitive_total": 10,
+  "rights_concern_total": 0,
+  "selected_total": 29,
+  "referenced_total": 29,
+  "hero": [
+    28
+  ],
+  "features": [
+    2,
+    3,
+    5,
+    6
+  ],
+  "gallery": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    7,
+    9,
+    10,
+    12,
+    14,
+    17,
+    19,
+    20,
+    22,
+    23,
+    24,
+    25,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    39,
+    40
+  ],
+  "product_package": [],
+  "excluded_with_reason": [
+    {
+      "id": "SRC-0410",
+      "file": "FB_IMG_1787557038747.jpg",
+      "reason": "Contains identifiable people or memorial/deceased information; excluded from the public experience."
+    },
+    {
+      "id": "SRC-0414",
+      "file": "FB_IMG_1787557099356.jpg",
+      "reason": "Contains identifiable people or memorial/deceased information; excluded from the public experience."
+    },
+    {
+      "id": "SRC-0417",
+      "file": "FB_IMG_1787557146117.jpg",
+      "reason": "Contains identifiable people or memorial/deceased information; excluded from the public experience."
+    },
+    {
+      "id": "SRC-0419",
+      "file": "FB_IMG_1787557289869.jpg",
+      "reason": "Contains identifiable people or memorial/deceased information; excluded from the public experience."
+    },
+    {
+      "id": "SRC-0421",
+      "file": "FB_IMG_1787557311828.jpg",
+      "reason": "Contains identifiable people or memorial/deceased information; excluded from the public experience."
+    },
+    {
+      "id": "SRC-0422",
+      "file": "FB_IMG_1787557315076.jpg",
+      "reason": "Contains identifiable people or memorial/deceased information; excluded from the public experience."
+    },
+    {
+      "id": "SRC-0424",
+      "file": "FB_IMG_1787557333455.jpg",
+      "reason": "Contains identifiable people or memorial/deceased information; excluded from the public experience."
+    },
+    {
+      "id": "SRC-0427",
+      "file": "FB_IMG_1787557502671.jpg",
+      "reason": "Contains identifiable people or memorial/deceased information; excluded from the public experience."
+    },
+    {
+      "id": "SRC-0432",
+      "file": "FB_IMG_1787557671268.jpg",
+      "reason": "Contains identifiable people or memorial/deceased information; excluded from the public experience."
+    },
+    {
+      "id": "SRC-0433",
+      "file": "FB_IMG_1787557682160.jpg",
+      "reason": "Contains identifiable people or memorial/deceased information; excluded from the public experience."
+    }
+  ]
+}
