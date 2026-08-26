@@ -1,0 +1,31 @@
+{
+  "errors": [],
+  "states": {
+    "desktop-home.png": {
+      "overflow": 0,
+      "broken_images": 0,
+      "console_errors": 0
+    },
+    "key-page-desktop.png": {
+      "overflow": 0,
+      "broken_images": 0,
+      "console_errors": 0
+    },
+    "contact.png": {
+      "overflow": 0,
+      "broken_images": 0,
+      "console_errors": 0
+    },
+    "mobile-home-390.png": {
+      "overflow": 0,
+      "broken_images": 0,
+      "console_errors": 0
+    },
+    "key-page-mobile.png": {
+      "overflow": 0,
+      "broken_images": 0,
+      "console_errors": 0
+    }
+  },
+  "status": "PASS"
+}
